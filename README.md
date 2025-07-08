@@ -6,9 +6,9 @@
 
 ### 🧠 About Me
 
-I'm a recent Union College graduate majoring in Computer Science and minors in Economics and Japanese. I've interned at GE Vernova, built real-time computer vision systems, contributed to TensorFlow and Camel AI, and recently implemented Stable Diffusion from scratch in PyTorch.
+I'm a recent Union College graduate majoring in Computer Science and minoring in Economics and Japanese. I've interned at GE Vernova, built real-time computer vision systems, contributed to TensorFlow and Camel AI, and recently implemented Stable Diffusion from scratch in PyTorch.
 
-I’m looking for opportunities to work with early-stage startups or mid-size companies building intelligent systems, particularly in ML infrastructure, gen AI, robotics, or RAG/LLM applications.
+I’m looking for opportunities to work with early-stage startups or mid-size companies building intelligent systems, particularly in ML infrastructure, robotics, or RAG/LLM applications.
 
 ---
 
@@ -22,14 +22,14 @@ I’m looking for opportunities to work with early-stage startups or mid-size co
 
 ### 🔨 Featured Projects
 
+- 📞 [Call Assistant](https://github.com/abhayKashyap03/call_assistant)  
+  Gemini-based voice assistant with secure RAG over internal KBs.
+
 - 🚀 [Stable Diffusion From Scratch](https://github.com/abhayKashyap03/stable_diffusion)  
   Full PyTorch implementation of latent diffusion model using DDPM + UNet + CLIP.
 
 - 🤖 [TurtleBot Spatial Tracker](https://github.com/abhayKashyap03/spacial_track)  
   LDS + CV fusion for real-time robotic object tracking and navigation.
-
-- 📞 [Gemini IT Support Agent](https://github.com/abhayKashyap03/its_bot)  
-  Gemini-based voice assistant with secure RAG over internal KBs.
 
 - 🖐️ [Distress Signal Detection](https://github.com/abhayKashyap03/ml_projects/tree/main/posesigndetect)  
   Real-time pose-based signal classification using keypoint models and OpenCV.
