@@ -6,24 +6,24 @@
 
 ### 🧠 About Me
 
-I'm a recent Union College graduate majoring in Computer Science and minoring in Economics and Japanese. I've interned at GE Vernova, built real-time computer vision systems, contributed to TensorFlow and Camel AI, and recently implemented Stable Diffusion from scratch in PyTorch.
+I'm a recent graduate of Union College, majoring in Computer Science and minoring in Economics and Japanese. I've interned at GE Vernova, built real-time computer vision systems, contributed to TensorFlow and Camel AI, and recently implemented Stable Diffusion from scratch in PyTorch. Currently working on a browser-based agent to make workflow automation easier.
 
-I’m looking for opportunities to work with early-stage startups or mid-size companies building intelligent systems, particularly in ML infrastructure, robotics, or RAG/LLM applications.
+I’m looking for opportunities to collaborate and work with early-stage startups or mid-size companies building intelligent systems, particularly in ML infrastructure, robotics, or RAG/LLM applications.
 
 ---
 
 ### ⚙️ Tech I Work With
 
-**Languages**: Python, C++, Java, SQL, OCaml  
-**Frameworks**: PyTorch, TensorFlow, ROS, Flask  
-**Tools**: Docker, AWS, Git, Pandas, NumPy, OpenCV, REST APIs
+**Languages**: Python, C++, Java, SQL, OCaml, Typescript  
+**Frameworks**: PyTorch, TensorFlow, ROS, Flask, React  
+**Tools**: Docker, AWS, Git, REST APIs, Vite  
 
 ---
 
 ### 🔨 Featured Projects
 
 - 📞 [Call Assistant](https://github.com/abhayKashyap03/call_assistant)  
-  Gemini-based voice assistant with secure RAG over internal KBs (exploring browser agents for easy integration and workflow automation).
+  Gemini-based voice assistant with secure RAG over internal KBs (exploring browser-based agents for easy integration and workflow automation).
 
 - 🚀 [Stable Diffusion From Scratch](https://github.com/abhayKashyap03/stable_diffusion)  
   Full PyTorch implementation of latent diffusion model using DDPM + UNet + CLIP.
