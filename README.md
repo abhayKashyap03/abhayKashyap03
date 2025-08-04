@@ -23,7 +23,7 @@ I’m looking for opportunities to work with early-stage startups or mid-size co
 ### 🔨 Featured Projects
 
 - 📞 [Call Assistant](https://github.com/abhayKashyap03/call_assistant)  
-  Gemini-based voice assistant with secure RAG over internal KBs.
+  Gemini-based voice assistant with secure RAG over internal KBs (exploring browser agents for easy integration and workflow automation).
 
 - 🚀 [Stable Diffusion From Scratch](https://github.com/abhayKashyap03/stable_diffusion)  
   Full PyTorch implementation of latent diffusion model using DDPM + UNet + CLIP.
@@ -35,8 +35,8 @@ I’m looking for opportunities to work with early-stage startups or mid-size co
   Real-time pose-based signal classification using keypoint models and OpenCV.
 
 - 🧬 Open-source Contribution  
-  Contributed to TensorFlow and Keras by adding public datasets, writing usage examples, and authoring tutorials for key APIs.
-  Implemented a new web crawling agent for Camel AI, enabling support for crawl4ai and expanding the platform’s LLM-ready data extraction capabilities.
+  - Contributed to TensorFlow and Keras by adding public datasets, writing usage examples, and authoring tutorials for key APIs.
+  - Implemented a new web crawling agent for Camel AI, enabling support for crawl4ai and expanding the platform’s LLM-ready data extraction capabilities.
 
 ---
 
