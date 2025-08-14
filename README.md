@@ -36,6 +36,7 @@ I’m looking for opportunities to collaborate and work with early-stage startup
 
 - 🧬 Open-source Contribution  
   - Contributed to TensorFlow and Keras by adding public datasets, writing usage examples, and authoring tutorials for key APIs.
+  - Contributed to Zulip by adding chatbots to automate tasks like translation, dictionary lookup, and adding sprites. 
   - Implemented a new web crawling agent for Camel AI, enabling support for crawl4ai and expanding the platform’s LLM-ready data extraction capabilities.
 
 ---
