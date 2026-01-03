@@ -6,16 +6,16 @@
 
 ### 🧠 About Me
 
-I'm a recent graduate of Union College, majoring in Computer Science and minoring in Economics and Japanese. I've interned at GE Vernova, built real-time computer vision systems, contributed to TensorFlow and Camel AI, and recently implemented Stable Diffusion from scratch in PyTorch. Currently working on a browser-based agent to make workflow automation easier.
+I'm a solutions engineer at Sinequa by ChapsVision. I graduated from Union College, NY, majoring in Computer Science and minoring in Economics and Japanese. I've interned at GE Vernova, built real-time computer vision systems, contributed to TensorFlow, Camel AI, and memvid communities, and implemented Stable Diffusion from scratch in PyTorch for fun! Currently working on a browser-based agent to make workflow automation easier.
 
-I’m looking for opportunities to collaborate and work with early-stage startups or mid-size companies building intelligent systems, particularly in ML infrastructure, robotics, or RAG/LLM applications.
+I’m looking for opportunities to collaborate and work with early-stage startups and mid-size teams building intelligent systems, particularly in ML infrastructure, robotics, or RAG/LLM applications.
 
 ---
 
 ### ⚙️ Tech I Work With
 
-**Languages**: Python, C++, Java, SQL, OCaml, Typescript  
-**Frameworks**: PyTorch, TensorFlow, ROS, Flask, React  
+**Languages**: Python, C++, Java, SQL, OCaml, Typescript, C#  
+**Frameworks**: PyTorch, TensorFlow, ROS, Flask, Angular  
 **Tools**: Docker, AWS, Git, REST APIs, Vite  
 
 ---
@@ -46,7 +46,7 @@ I’m looking for opportunities to collaborate and work with early-stage startup
 - 🌐 [LinkedIn](https://www.linkedin.com/in/abhaykashyap03)  
 - 💌 abhay.kashyap03@gmail.com
 - 📱 +15189861527
-- 🧠 Open to internships, contracts, or full-time roles in AI/ML/infra  
+- 🧠 Open to full-time roles and partnerships!  
 
 ---
 
