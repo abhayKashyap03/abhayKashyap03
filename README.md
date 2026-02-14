@@ -16,7 +16,7 @@ I’m looking for opportunities to collaborate and work with early-stage startup
 
 **Languages**: Python, C++, Java, SQL, OCaml, Typescript, C#  
 **Frameworks**: PyTorch, TensorFlow, ROS, Flask, Angular  
-**Tools**: Docker, AWS, Git, REST APIs, Vite  
+**Tools**: Docker, Azure, Git, REST APIs, Vite, Node.js
 
 ---
 
@@ -29,7 +29,7 @@ I’m looking for opportunities to collaborate and work with early-stage startup
   Full PyTorch implementation of latent diffusion model using DDPM + UNet + CLIP.
 
 - 🤖 [TurtleBot Spatial Tracker](https://github.com/abhayKashyap03/spacial_track)  
-  LDS + CV fusion for real-time robotic object tracking and navigation.
+  Laser distance sensor + CV fusion for real-time robotic object tracking and navigation.
 
 - 🖐️ [Distress Signal Detection](https://github.com/abhayKashyap03/ml_projects/tree/main/posesigndetect)  
   Real-time pose-based signal classification using keypoint models and OpenCV.
