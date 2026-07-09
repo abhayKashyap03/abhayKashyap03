@@ -6,7 +6,7 @@
 
 ### 🧠 About Me
 
-I'm a solutions engineer at Sinequa by ChapsVision. I graduated from Union College, NY, majoring in Computer Science and minoring in Economics and Japanese. I've interned at GE Vernova, built real-time computer vision systems, contributed to TensorFlow, Camel AI and memvid communities, and implemented Stable Diffusion from scratch in PyTorch for fun! Currently working on a CLI client for Grok with file system / copilot capabilities.
+I'm currently an engineer at Sinequa by ChapsVision. I've interned at GE Vernova, built real-time computer vision systems, contributed to TensorFlow, Camel AI and memvid communities, and implemented Stable Diffusion from scratch in PyTorch for fun! Currently working on a CLI client for Grok with file system / copilot capabilities.
 
 I’m looking for opportunities to collaborate and work with early-stage startups and mid-size teams building intelligent systems, particularly in ML infrastructure, robotics, or RAG/LLM applications.
 
