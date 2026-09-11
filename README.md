@@ -14,7 +14,7 @@ I’m looking for opportunities to collaborate and work with early-stage startup
 
 ### 🔨 Featured Projects
 - 🤖 [Grok CLI](https://github.com/abhayKashyap03/grok-cli)  
-  CLI tool for Grok with file system interaction and copilot capabailities.
+  End-to-end CLI harness for Grok with MCP, tools, commands, subagents, and more capabilities.
 
 - 📞 [Call Assistant](https://github.com/abhayKashyap03/call_assistant)  
   Gemini-based voice assistant with secure RAG over internal KBs (exploring browser-based agents for easy integration and workflow automation).
