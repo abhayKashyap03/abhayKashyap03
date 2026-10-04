@@ -1,78 +1,42 @@
-# 👋 Hi! I'm Abhay Kashyap
+# Abhay Kashyap
 
-**CS + Economics grad | ML/AI Infra and Computer Vision Engineer**
+**AI systems · Search & retrieval · Developer tools**
 
----
+I build tools that turn AI capabilities into useful software: coding agents, browser automation, grounded data workflows, and native macOS apps.
 
-### 🧠 About Me
+Full-stack AI engineer at **Sinequa by ChapsVision**, working on enterprise search and agent workflows. CS + Economics graduate; previously interned at GE Vernova.
 
-I'm currently an engineer at Sinequa by ChapsVision. I've interned at GE Vernova, built real-time computer vision systems, contributed to TensorFlow, Camel AI and memvid communities, and implemented Stable Diffusion from scratch in PyTorch for fun! Currently working on a CLI client for Grok with file system / copilot capabilities.
+[Portfolio](https://abhaykashyap.org) · [LinkedIn](https://www.linkedin.com/in/abhaykashyap03) · [Email](mailto:abhay.kashyap03@gmail.com)
 
-I’m looking for opportunities to collaborate and work with early-stage startups and mid-size teams building intelligent systems, particularly in ML infrastructure, robotics, or RAG/LLM applications.
+## Featured projects
 
----
+| Project | What I built |
+| :--- | :--- |
+| **[Grok CLI](https://github.com/abhayKashyap03/grok-cli)**<br>Rust · MCP | A terminal coding agent for Grok that reads, edits, and tests code. Streaming sessions, permission controls with diff approvals, MCP tools, hooks, and restricted subagents. |
+| **[Computer-Use Runtime](https://github.com/abhayKashyap03/computer-use-runtime)**<br>TypeScript · Playwright · Zod | Records model-discovered UI workflows as typed capabilities, then replays them without model calls. Includes policy checks, explicit postconditions, and human handoff in the same browser session. |
+| **[AI Health & Fitness Coach](https://github.com/abhayKashyap03/fitness-ai)**<br>Python · SQLite | Brings recovery, nutrition, weight, and training data into one local store. Deterministic calculations feed a grounded AI coach, with source precedence, a dashboard, and grounding evaluations. |
+| **[Usage Notch](https://github.com/abhayKashyap03/usage-notch)**<br>Swift · macOS | A screen-edge cockpit for Claude Code and Codex: usage windows, live agent activity, and workspace Git status, drawn from local session data. |
+| **[Audio Notch](https://github.com/abhayKashyap03/audio-notch)**<br>Swift · CoreAudio | Shows which apps are playing audio or using the mic, with live level meters, system volume controls, and output switching. Event-driven audio monitoring in a compact native HUD. |
+| **[Bend](https://github.com/abhayKashyap03/bend-and-blur)**<br>Swift · ScreenCaptureKit | Folds the live desktop as a MacBook lid closes, combining hinge-angle sensing, screen capture, and a click-through animated overlay. Frames stay in memory. |
 
-### 🔨 Featured Projects
-- 🤖 [Grok CLI](https://github.com/abhayKashyap03/grok-cli)  
-  End-to-end CLI harness for Grok with MCP, tools, commands, subagents, and more capabilities.
+## Earlier work
 
-- 📞 [Call Assistant](https://github.com/abhayKashyap03/call_assistant)  
-  Gemini-based voice assistant with secure RAG over internal KBs (exploring browser-based agents for easy integration and workflow automation).
+- **[Call Assistant](https://github.com/abhayKashyap03/call_assistant)** — A Gemini-powered voice assistant with Twilio, knowledge-base retrieval, and a Flask/React interface.
+- **[Stable Diffusion from Scratch](https://github.com/abhayKashyap03/stable_diffusion)** — A modular PyTorch latent diffusion pipeline with DDPM, UNet, and CLIP.
+- **[TurtleBot Spatial Tracker](https://github.com/abhayKashyap03/spacial_track)** — Computer vision and ROS experiments for moving-object detection and person tracking.
 
-- 🚀 [Stable Diffusion From Scratch](https://github.com/abhayKashyap03/stable_diffusion)  
-  Full PyTorch implementation of latent diffusion model using DDPM + UNet + CLIP.
+## Open source
 
-- 🤖 [TurtleBot Spatial Tracker](https://github.com/abhayKashyap03/spacial_track)  
-  Laser distance sensor + CV fusion for real-time robotic object tracking and navigation.
+- **CAMEL AI** — [Crawl4AI integration](https://github.com/camel-ai/camel/pull/2030) and [agent-pool efficiency and performance metrics](https://github.com/camel-ai/camel/pull/3034), both merged.
+- **Memvid** — [Google GenAI SDK migration](https://github.com/memvid/memvid/pull/82) and [Gemini client fix](https://github.com/memvid/memvid/pull/88), both merged.
+- **Paperclip** — [Local-agent execution timeout configuration](https://github.com/paperclipai/paperclip/pull/14804), open PR.
 
-- 🖐️ [Distress Signal Detection](https://github.com/abhayKashyap03/ml_projects/tree/main/posesigndetect)  
-  Real-time pose-based signal classification using keypoint models and OpenCV.
+## Tools I work with
 
-- 🧬 Open-source Contribution  
-  - Contributed to TensorFlow and Keras by adding public datasets, writing usage examples, and authoring tutorials for key APIs.
-  - Contributed to Zulip by adding chatbots to automate tasks like translation, dictionary lookup, and adding sprites. 
-  - Implemented a new web crawling agent for Camel AI, enabling support for crawl4ai and expanding the platform’s LLM-ready data extraction capabilities.
+**Languages:** Python, Rust, TypeScript, Swift, C#, SQL
 
----
+**AI & search:** PyTorch, TensorFlow, RAG, agent tooling, MCP
 
-### ⚙️ Tech I Work With
+**Applications & systems:** Angular, React, .NET, Flask, Playwright, CoreAudio, ScreenCaptureKit, Docker
 
-**Languages**: 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&txtColor=black)
-![Rust](https://img.shields.io/badge/rust-3670A0?style=for-the-badge&logo=rust&logoColor=ffdd54&txtColor=black)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?style=for-the-badge&logo=cshrp&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-white?style=for-the-badge)
-![OCaml](https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-**Frameworks**: 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)  
-
-**Tools**: 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-white?style=for-the-badge)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
-
----
-
-### 📫 Let's Connect
-
-- 🌐 [LinkedIn](https://www.linkedin.com/in/abhaykashyap03)  
-- 💌 abhay.kashyap03@gmail.com
-- 📱 +15189861527
-- 🧠 Open to full-time roles and partnerships!  
-
----
-
-> “Build what you wish existed. Stay curious.”
-
+I'm interested in teams building applied AI, search infrastructure, and developer tools. For collaboration or engineering opportunities, [get in touch](mailto:abhay.kashyap03@gmail.com).
