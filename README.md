@@ -2,7 +2,7 @@
 
 **AI systems, search & retrieval, and tools for people who build things.**
 
-I'm a full-stack AI engineer at **Sinequa by ChapsVision**, working on enterprise search and agent workflows. Outside work, I build coding agents, experiment with retrieval, and contribute to open source.
+I'm a full-stack AI engineer at **Argonos** (formerly Sinequa by ChapsVision), working on enterprise search and agent workflows. Outside work, I build coding agents, experiment with retrieval, and contribute to open source.
 
 I like the part where a clever demo has to become reliable software. Also: Grok needed a CLI, and I got impatient.
 
